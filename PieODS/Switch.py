@@ -100,7 +100,6 @@ class ODSclient():
 # #     cl.stop()
 # # print(client.containers.list())
 # print(client.images.list())
-# creds = {"username":"shad00", "password":"Saher1988"}
 #ims = client.images.pull("jvalue/open-data-service", all_tags=True , auth_config=creds)
 
 # for im in ims:
